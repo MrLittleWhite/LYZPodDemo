@@ -1,0 +1,6 @@
+framework module LYZPodDemo {
+  umbrella header "LYZPodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

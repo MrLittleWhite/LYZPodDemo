@@ -1,0 +1,26 @@
+{
+  "name": "LYZPodDemo",
+  "version": "0.1.0",
+  "summary": "LYZ pod Test demo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MrLittleWhite/LYZPodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YunzhiLiu": "15013989079@163.com"
+  },
+  "source": {
+    "git": "https://github.com/MrLittleWhite/LYZPodDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "LYZPodDemo/Classes/**/*",
+  "public_header_files": "LYZPodDemo/Classes/**/*.h",
+  "frameworks": "UIKit",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}
